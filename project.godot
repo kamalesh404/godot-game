@@ -1,0 +1,10 @@
+[core]
+engine = 4.0
+name = "Godot Game"
+```
+
+[application]
+config/entry = "res://scenes/main.tscn"
+config/allow_orientation_lock = false
+config/default_scene = "res://scenes/main.tscn"
+```
